@@ -1,5 +1,7 @@
-streamlit
-groq
-pandas
-google-api-python-client
-google-auth
+streamlit>=1.28.0
+groq>=0.4.0
+pandas>=2.0.0
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+plotly>=5.17.0
+python-dotenv>=1.0.0
