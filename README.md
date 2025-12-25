@@ -66,9 +66,7 @@ groq_client = Groq(
 
 ## 📊 Step 2: Google Sheets Setup
 
-> ⚠️ Note: This project uses **Google Sheets API**, not Google Calendar.
 
----
 
 ### 2.1 Create Google Sheet
 
